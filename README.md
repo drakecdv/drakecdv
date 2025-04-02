@@ -2,12 +2,12 @@
 
 <img src='https://github.com/drakecdv/drakecdv/blob/main/gh-banner-r.png'>
 
-<p><em>I'm a remote Full-Stack Software Developer!</em></p>
+<p><em>I'm a Software Developer!</em></p>
 
 ### A little more about me:
 
 ```javascript
-const bryanHurtado = {
+const drakeHurtado = {
   lookingFor: 'Front-End developer' || 'Full-stack web developer',
   code: [JavaScript, React, Redux, Ruby],
   askMeAbout: ['New Technologies', 'Digital Art', 'Videogames', 'Movies'],
