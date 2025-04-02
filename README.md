@@ -1,6 +1,6 @@
-# Hi, I'm Bryan Hurtado 👋
+# Hi, I'm Drake Hurtado 👋
 
-<img src='https://github.com/DarkxDev/DarkxDev/blob/main/gh-banner-r.png'>
+<img src='https://github.com/drakecdv/drakecdv/blob/main/gh-banner-r.png'>
 
 <p><em>I'm a remote Full-Stack Software Developer!</em></p>
 
